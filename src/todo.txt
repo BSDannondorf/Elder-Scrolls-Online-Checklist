@@ -1,0 +1,13 @@
+notes to take:
+    run frontend on different port
+    run a javascript file in node
+    how to deploy a website in github
+todo:
+    health-checklist in same folder as eso-checklist
+    japanese-checklist in same folder as eso-checklist:
+    coding-checklist ...: 
+    finances-checklist ...: credit card payment, Dylan debt?, oil, tire, pay probation fee, Brown settlement, Dad $1000)
+    probation-checklist
+Margaret Holmes Triple Succotash
+Margaret Holmes Squash and Vidalia Onions
+Walmart: gift cards (envelopes?), walnuts
